@@ -39,7 +39,7 @@ education:
   courses:
     - course: PhD in Biomedical Engineering
       institution: Purdue University
-      year: 2023
+      year: 2023 - now
     - course: MS in Biomedical Engineering
       institution: Korea University
       year: 2022
