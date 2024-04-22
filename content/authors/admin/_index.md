@@ -37,15 +37,15 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Biomedical Engineering
+      institution: Purdue University
+      year: 2023
+    - course: MS in Biomedical Engineering
+      institution: Korea University
+      year: 2022
+    - course: BS in Radiology
+      institution: Shingu University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -121,5 +121,7 @@ social:
 highlight_name: true
 ---
 
-Youngjun Lee is a Ph.D. candidate of biomedical engineering department at Dr. Rachel's Lab.
+I am a Ph.D. Candidate of Biomedical Engineering in Dr. Rachel's lab at Purdue University. Prior to joining Purdue in 2023, I completed my MS in Biomedical Engineering at Korea University. My research interests include clinical imaging analysis, image feature-based radiomics, deep learning, and machine learning.
+
+My Korean name is 이영준 and you can also call me Jun. You can contact me at `lee4731 AT purdue DOT edu'.
 {style="text-align: justify;"}
